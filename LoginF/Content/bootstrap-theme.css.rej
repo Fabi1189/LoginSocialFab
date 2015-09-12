@@ -1,0 +1,10 @@
+diff a/LoginF/LoginF/Content/bootstrap-theme.css b/LoginF/LoginF/Content/bootstrap-theme.css	(rejected hunks)
+@@ -101,7 +101,7 @@
+ .btn-default.disabled.active,
+ .btn-default[disabled].active,
+ fieldset[disabled] .btn-default.active {
+-  background-color: #e0e0e0;
++  background-color: #394CA2;
+   background-image: none;
+ }
+ .btn-primary {
